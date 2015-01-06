@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'fontello';
-  src: url('../font/fontello.eot?89856806');
-  src: url('../font/fontello.eot?89856806#iefix') format('embedded-opentype'),
-       url('../font/fontello.woff?89856806') format('woff'),
-       url('../font/fontello.ttf?89856806') format('truetype'),
-       url('../font/fontello.svg?89856806#fontello') format('svg');
+  font-family: 'custom-font';
+  src: url('../fonts/custom-font.eot?89856806');
+  src: url('../fonts/custom-font.eot?89856806#iefix') format('embedded-opentype'),
+       url('../fonts/custom-font.woff?89856806') format('woff'),
+       url('../fonts/custom-font.ttf?89856806') format('truetype'),
+       url('../fonts/custom-font.svg?89856806#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -20,7 +20,7 @@
 */
  
  [class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "fontello";
+  font-family: "custom-font";
   font-style: normal;
   font-weight: normal;
   speak: none;

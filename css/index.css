@@ -44,4 +44,23 @@ i {
 	display: inline-block;
 	color: #fff;
 	text-align: center;
+	transition: all 333ms linear;
+}
+
+.crown {
+}
+
+.crown:hover,
+.crown:active {
+	color: yellow;
+}
+
+.mh {
+
+}
+
+.mh:hover,
+.mh:active {
+	transform: scale(2) rotate(360deg);
+	padding: 0 0.5em;
 }
