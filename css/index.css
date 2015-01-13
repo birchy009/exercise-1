@@ -46,15 +46,9 @@ i {
 	transition: all 333ms linear;
 }
 
-.crown {
-}
-
 .crown:hover,
 .crown:active {
 	color: yellow;
-}
-
-.mh {
 }
 
 .mh:hover,
@@ -80,10 +74,6 @@ i {
 
 .mh:hover .one {
 	opacity: 1;
-}
-
-.fb {
-
 }
 
 .fb:hover,
